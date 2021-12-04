@@ -11,7 +11,7 @@ tok3 = 'TcB9dCsbdBTkIwJAlfzWEAzpJOI'
 
 TOKEN = tok1 + tok2 + tok3
 
-test = 'test'
+test = 'test2'
 
 bot = commands.Bot(command_prefix='PEEPEE POOPOO ')
 
