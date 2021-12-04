@@ -6,7 +6,7 @@ from discord import FFmpegPCMAudio
 from discord.ext import commands
 from discord.utils import get
 
-TOKEN =
+TOKEN = 'OTE2NjAxMjEzMDI0MzQyMDE2.YashZg.DH8TXqjj2IIFqCnd2nyI5bQP49o'
 
 bot = commands.Bot(command_prefix='PEEPEE POOPOO ')
 
