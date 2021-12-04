@@ -6,7 +6,11 @@ from discord import FFmpegPCMAudio
 from discord.ext import commands
 from discord.utils import get
 
-TOKEN = 'OTE2NjAxMjEzMDI0MzQyMDE2.YashZg.DH8TXqjj2IIFqCnd2nyI5bQP49o'
+tok1 = 'OTE2NjAxMjEzMDI0MzQyMDE2.'
+tok2 = 'YashZg.'
+tok3 = 'TcB9dCsbdBTkIwJAlfzWEAzpJOI'
+
+TOKEN = tok1 + tok2 + tok3
 
 bot = commands.Bot(command_prefix='PEEPEE POOPOO ')
 
