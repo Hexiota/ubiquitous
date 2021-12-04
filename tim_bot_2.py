@@ -1,6 +1,7 @@
 import discord
 import random
 import asyncio
+import os
 from discord import FFmpegPCMAudio
 from discord.ext import commands
 from discord.utils import get
